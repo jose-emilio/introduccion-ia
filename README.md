@@ -48,18 +48,3 @@ Al finalizar el curso, los participantes serán capaces de:
 | 4 | Módulo 4 — Herramientas y Aplicaciones Prácticas | 75 min |
 | 5 | Módulo 5 — Ética, Regulación y Gobernanza | 60 min |
 | 6 | Módulo 6 — Conclusiones y Plan de Acción | 15 min |
-
-## Navegación rápida
-
-- [Inicio](README.md)
-- [Módulo 1: Introducción a la IA](modulos/modulo-1-introduccion-ia/index.md)
-- [Módulo 2: Fundamentos de la IA](modulos/modulo-2-fundamentos-ia/index.md)
-- [Módulo 3: IA Generativa](modulos/modulo-3-ia-generativa/index.md)
-- [Módulo 4: Herramientas y Aplicaciones](modulos/modulo-4-herramientas-aplicaciones/index.md)
-- [Módulo 5: Ética, Regulación y Gobernanza](modulos/modulo-5-etica-regulacion-gobernanza/index.md)
-- [Módulo 6: Conclusiones](modulos/modulo-6-conclusiones-proximos-pasos/index.md)
-- [Laboratorio 1: Súper-Prompt Departamental](laboratorios/lab-1-super-prompt-departamental.md)
-- [Laboratorio 2: Insights sin Alucinaciones](laboratorios/lab-2-insights-sin-alucinaciones.md)
-- [Laboratorio 3: Copiloto de Código](laboratorios/lab-3-copilot-codigo.md)
-- [Laboratorio 4: Vigilancia Regulatoria](laboratorios/lab-4-vigilancia-regulatoria.md)
-- [Laboratorio 5: Mitigación de Sesgos](laboratorios/lab-5-mitigacion-sesgos.md)
