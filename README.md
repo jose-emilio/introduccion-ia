@@ -1,8 +1,8 @@
 # Curso: Introducción a la Inteligencia Artificial
 
-**Duración:** 5 horas (1 jornada intensiva)
-**Modalidad:** Presencial / Virtual sincrónico
-**Público:** Profesionales, managers y personas no técnicas
+- **Duración:** 5 horas (1 jornada intensiva)
+- **Modalidad:** Presencial / Virtual sincrónico
+- **Público:** Profesionales, managers y personas no técnicas
 
 ---
 
