@@ -41,7 +41,7 @@ Necesitas un documento público extenso (mínimo 15-20 páginas). Elige UNO:
 |---|---|
 | **Informe anual de una empresa** | Busca en Google "[nombre empresa] informe anual 2025 PDF" |
 | **Pliego de condiciones de una licitación** | Busca en Google "pliego de condiciones licitación PDF" |
-| ** Memoria de sostenibilidad** | Busca en Google "memoria de sostenibilidad 2025 PDF" |
+| **Memoria de sostenibilidad** | Busca en Google "memoria de sostenibilidad 2025 PDF" |
 | **Un documento largo que ya tengas** | Asegúrate de que sea público y no contenga datos confidenciales |
 
 > **Importante:** Usa solo documentos públicos. No subas datos confidenciales de tu empresa. Este laboratorio es para practicar la técnica.
