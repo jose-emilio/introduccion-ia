@@ -37,14 +37,3 @@ Al finalizar el curso, los participantes serán capaces de:
 4. **Evaluar** los riesgos éticos, de sesgo y de seguridad asociados a la IA.
 5. **Diseñar** un plan de acción individual para adoptar IA en el puesto de trabajo.
 6. **Distinguir** entre herramientas públicas inseguras y entornos empresariales protegidos.
-
-## Mapa de Contenidos vs Tiempo
-
-| Bloque | Contenido | Duración |
-|--------|-----------|----------|
-| 1 | Módulo 1 — Introducción a la IA | 45 min |
-| 2 | Módulo 2 — Fundamentos de la IA | 45 min |
-| 3 | Módulo 3 — IA Generativa | 60 min |
-| 4 | Módulo 4 — Herramientas y Aplicaciones Prácticas | 75 min |
-| 5 | Módulo 5 — Ética, Regulación y Gobernanza | 60 min |
-| 6 | Módulo 6 — Conclusiones y Plan de Acción | 15 min |
